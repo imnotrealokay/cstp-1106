@@ -1,0 +1,83 @@
+        #tNav {
+            float: left;
+            width: 30%;
+            margin: 50px 0;
+        }
+
+        #tNav a {
+            color: black;
+            float: left;
+            width: 30%;
+        }
+
+        #inner {
+            float: left;
+            padding-top: 3em;
+            padding-bottom: 3em;
+            font-style: normal;
+            font-size: 1.9px;
+            color:maroon;
+            text-align: center;
+            width: 40%;
+        }
+
+
+        q {
+            text-align: center;
+            font-size: 35px;
+            padding-left: 500px;
+        }
+
+        main h1 {
+            font-size: 20px;
+            text-align: center;
+            font-style: italic;
+        }
+
+        section aside {
+            width: 33%;
+            float: left;
+        }
+
+        aside img {
+            width: 70%;
+        }
+
+        aside q {
+            font-style: normal;
+            font-size: 1.8em;
+            text-align: center;
+        }
+
+        aside h1 {
+            font-style: italic;
+            text-align: center;
+        }
+
+        content {
+            
+            font-weight: 300;
+            font-style: normal;
+            font-size: 1em;
+            color: black;
+            text-align: center;
+            
+        }
+
+        footer {
+            background-color: maroon;
+            padding-top: 50px;
+            padding-bottom: 50px;
+            padding-right:  200px;
+            padding-left:  200px;
+            text-align: center;
+            font-style: normal;
+        }
+
+        footer a {
+            color: black;
+            color: maroon;
+            background-color: whitesmoke;
+            border-color: gainsboro;
+            font-style: normal;
+        }
